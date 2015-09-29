@@ -1,4 +1,5 @@
-FROM tifayuki/java:7
+FROM duruu/java:7
+
 MAINTAINER Ganduruu.B <mr.jojo8@gmail.com>
 
 RUN apt-get update && \

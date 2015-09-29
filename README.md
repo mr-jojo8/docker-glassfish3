@@ -1,4 +1,4 @@
-This repo extends from tutum team.
+Docker Glassfish-3.1.2
 ==================================
 
 Usage
