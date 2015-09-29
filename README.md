@@ -1,4 +1,4 @@
-This repo extend tutum team.
+This repo extends from tutum team.
 
 
 docker build -t duruu/glassfish3 .
