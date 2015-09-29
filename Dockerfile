@@ -1,5 +1,5 @@
 FROM tifayuki/java:7
-MAINTAINER Feng Honglin <hfeng@tutum.co>
+MAINTAINER Ganduruu.B <mr.jojo8@gmail.com>
 
 RUN apt-get update && \
     apt-get install -y wget unzip pwgen expect && \
