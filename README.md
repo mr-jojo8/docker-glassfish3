@@ -3,7 +3,9 @@ Docker Glassfish-3.1.2
 
 Usage
 ------
-
+	Build image.
+	------------
+	
 	docker build -t duruu/glassfish3 .
 
 	docker run -d -p 4848:4848 -p 8080:8080 -p 8181:8181 duruu/glassfish3
